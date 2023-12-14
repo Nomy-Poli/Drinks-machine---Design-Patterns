@@ -1,0 +1,8 @@
+in: 30-05-2023 15:26:36 someone buys: bamba
+in: 30-05-2023 15:27:01 someone buys: dal Calories Ice-Cofee
+in: 30-05-2023 15:27:21 someone buys: dal Calories Ice-Cofee
+in: 30-05-2023 17:21:02 someone buys: bamba
+in: 30-05-2023 17:21:13 someone buys: dal Calories Ice-Cofee
+in: 30-05-2023 17:26:10 someone buys: ice Cofee
+in: 30-05-2023 17:26:38 someone buys: ice Cofee
+in: 30-05-2023 17:43:35 someone buys: hot drink

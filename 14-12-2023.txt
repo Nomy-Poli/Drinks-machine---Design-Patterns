@@ -1,0 +1,3 @@
+in: 14-12-2023 00:50:17 someone bought: ice Cofee
+in: 14-12-2023 00:50:44 someone bought: hot drink
+in: 14-12-2023 00:50:56 someone bought: bamba

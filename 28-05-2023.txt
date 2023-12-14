@@ -1,0 +1,53 @@
+in: 28-05-2023 00:39:29 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 00:53:43 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 00:54:07 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 00:54:53 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 00:58:16 someone buys: ice Cofee
+in: 28-05-2023 01:34:00 someone buys: tropit
+in: 28-05-2023 01:34:15 someone buys: apropo
+in: 28-05-2023 01:34:30 someone buys: ice Cofee
+in: 28-05-2023 01:35:06 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 01:37:43 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 01:39:24 someone buys: ice Cofee
+in: 28-05-2023 01:39:32 someone buys: ice Cofee
+in: 28-05-2023 01:39:38 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 01:39:43 someone buys: ice Cofee
+in: 28-05-2023 01:39:48 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 01:39:52 someone buys: ice Cofee
+in: 28-05-2023 01:41:46 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 01:41:53 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 01:41:57 someone buys: ice Cofee
+in: 28-05-2023 01:42:03 someone buys: ice Cofee
+in: 28-05-2023 01:42:08 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 01:43:16 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 01:45:01 someone buys: ice Cofee
+in: 28-05-2023 01:45:35 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 01:48:19 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 01:48:30 someone buys: ice Cofee
+in: 28-05-2023 01:57:47 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 01:57:52 someone buys: ice Cofee
+in: 28-05-2023 01:57:56 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 02:03:50 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 02:07:16 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 02:07:22 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 02:07:27 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 02:07:31 someone buys: coca cola
+in: 28-05-2023 02:14:10 someone buys: orange Juice
+in: 28-05-2023 02:14:19 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 02:14:35 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 02:14:40 someone buys: tropit
+in: 28-05-2023 02:15:19 someone buys: dal Calories Ice-Cofee
+in: 28-05-2023 02:15:46 someone buys: ice Cofee
+in: 28-05-2023 02:15:58 someone buys: bislli
+in: 28-05-2023 02:16:57 someone buys: coca cola
+in: 28-05-2023 02:17:01 someone buys: coca cola
+in: 28-05-2023 02:17:04 someone buys: coca cola
+in: 28-05-2023 02:17:07 someone buys: coca cola
+in: 28-05-2023 02:17:10 someone buys: coca cola
+in: 28-05-2023 02:17:15 someone buys: coca cola
+in: 28-05-2023 02:17:18 someone buys: coca cola
+in: 28-05-2023 02:17:22 someone buys: coca cola
+in: 28-05-2023 02:18:00 someone buys: coca cola
+in: 28-05-2023 02:21:19 someone buys: coca cola
+in: 28-05-2023 02:21:39 the deliver add update the qty server to the : coca colaMechine/drink
+in: 28-05-2023 02:21:43 someone buys: coca cola

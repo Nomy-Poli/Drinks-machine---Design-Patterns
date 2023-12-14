@@ -1,0 +1,71 @@
+in:  16-05-2023 09:48:17  some one buy:  tropit
+in:  17-05-2023 39:51:14  some one buy:  tropit
+in:  17-05-2023 34:54:14  some one buy:  tropit
+in:  17-05-2023 40:56:14  some one buy:  tropit
+in:  17-05-2023 05:03:16  some one buy:  tropit
+in:  17-05-2023 30:04:16  some one buy:  tropit
+in:  18-05-2023 03:35:01  some one buy:  tropit
+in:  18-05-2023 11:39:01  some one buy:  tropit
+in:  18-05-2023 09:47:01  some one buy:  coca cola
+in:  18-05-2023 06:50:01  some one buy:  tropit
+in:  18-05-2023 13:50:01  some one buy:  coca cola
+in:  18-05-2023 46:50:01  some one buy:  coca cola
+in:  18-05-2023 02:37:01  some one buy:  apropo
+in:  18-05-2023 16:49:56  some one buy:  tropit
+in:  18-05-2023 16:50:10  some one buy:  coca cola
+in:  18-05-2023 16:55:41  some one buy:  coca cola
+in: 18-05-2023 17:07:10 someone buys: tropit
+in: 18-05-2023 17:48:07 someone buys: coca cola
+in: 18-05-2023 17:49:07 someone buys: coca cola
+in: 18-05-2023 17:49:15 someone buys: dal calories ice cofee
+in: 18-05-2023 18:41:35 someone buys: tropit
+in: 18-05-2023 18:41:43 someone buys: coca cola
+in: 18-05-2023 18:59:35 someone buys: tropit
+in: 18-05-2023 18:59:40 someone buys: coca cola
+in: 18-05-2023 18:59:48 someone buys: coca cola
+in: 18-05-2023 19:00:28 someone buys: tropit
+in: 18-05-2023 19:14:43 someone buys: orange Juice
+in: 18-05-2023 19:15:24 someone buys: dal calories ice cofee
+in: 19-05-2023 01:10:29 the deliver add update the qty server to the : tropitproduct/drink
+in: 19-05-2023 01:10:29 someone buys: tropit
+in: 19-05-2023 01:10:34 someone buys: orange Juice
+in: 19-05-2023 01:10:40 someone buys: dal calories ice cofee
+in: 19-05-2023 01:11:02 someone buys: tropit
+in: 19-05-2023 01:11:12 someone buys: regular ice coffe
+in: 19-05-2023 01:11:23 someone buys: apropo
+in: 19-05-2023 01:11:41 someone buys: tropit
+in: 19-05-2023 01:11:47 someone buys: bamba
+in: 19-05-2023 01:11:58 someone buys: apropo
+in: 19-05-2023 01:12:05 someone buys: coca cola
+in: 19-05-2023 01:12:30 someone buys: regular ice coffe
+in: 19-05-2023 01:12:38 the deliver add update the qty server to the : coca colaproduct/drink
+in: 19-05-2023 01:12:38 someone buys: coca cola
+in: 19-05-2023 01:12:53 someone buys: orange Juice
+in: 19-05-2023 01:13:16 someone buys: dal calories ice cofee
+in: 19-05-2023 01:13:37 someone buys: dal calories ice cofee
+in: 19-05-2023 01:13:58 someone buys: tropit
+in: 19-05-2023 01:55:21 the deliver add update the qty server to the : tropitproduct/drink
+in: 19-05-2023 01:55:21 someone buys: tropit
+in: 19-05-2023 01:55:27 someone buys: bamba
+in: 19-05-2023 01:55:37 someone buys: fuze-tee
+in: 19-05-2023 01:55:43 someone buys: regular ice coffe
+in: 19-05-2023 01:56:12 someone buys: regular ice coffe
+in: 19-05-2023 01:59:43 someone buys: regular ice coffe
+in: 19-05-2023 02:02:07 someone buys: dal calories ice cofee
+in: 19-05-2023 02:02:22 someone buys: coca cola
+in: 19-05-2023 02:02:29 someone buys: regular ice coffe
+in: 19-05-2023 02:02:54 someone buys: hot cofee
+in: 19-05-2023 02:11:06 someone buys: hot cofee
+in: 22-05-2023 09:24:01 someone buys: dal calories ice cofee
+in: 22-05-2023 09:36:44 the deliver add update the qty server to the : tropitproduct/drink
+in: 22-05-2023 09:36:44 someone buys: tropit
+in: 22-05-2023 09:39:46 the deliver add update the qty server to the : tropitproduct/drink
+in: 22-05-2023 10:18:09 the deliver add update the qty server to the : tropitproduct/drink
+in: 22-05-2023 10:20:38 the deliver add update the qty server to the : tropitproduct/drink
+in: 22-05-2023 12:57:23 the deliver add update the qty server to the : coca colaMechine/drink
+in: 22-05-2023 13:00:17 the deliver add update the qty server to the : tropitMechine/drink
+in: 22-05-2023 13:26:37 the deliver add update the qty server to the : chipsMechine/drink
+in: 23-05-2023 00:01:42 the deliver add update the qty server to the : tropitMechine/drink
+in: 28-05-2023 01:34:00 the deliver add update the qty server to the : tropitMechine/drink
+in: 28-05-2023 02:14:40 the deliver add update the qty server to the : tropitMechine/drink
+in: 28-05-2023 02:17:01 the deliver add update the qty server to the : coca colaMechine/drink

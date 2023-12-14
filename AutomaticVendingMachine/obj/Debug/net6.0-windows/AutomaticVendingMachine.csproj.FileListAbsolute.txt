@@ -1,0 +1,70 @@
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.exe
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.deps.json
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.runtimeconfig.json
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.dll
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.pdb
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.csproj.AssemblyReference.cache
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.Form1.resources
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.csproj.GenerateResource.cache
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.AssemblyInfoInputs.cache
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.AssemblyInfo.cs
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.dll
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\refint\AutomaticVendingMachine.dll
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.pdb
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.genruntimeconfig.cache
+C:\Users\malka\Desktop\tovi\AutomaticVendingMachine-master\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\ref\AutomaticVendingMachine.dll
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.exe
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.deps.json
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.runtimeconfig.json
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.dll
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.pdb
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.csproj.AssemblyReference.cache
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.Form1.resources
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.csproj.GenerateResource.cache
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.AssemblyInfoInputs.cache
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.AssemblyInfo.cs
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.dll
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\refint\AutomaticVendingMachine.dll
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.pdb
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.genruntimeconfig.cache
+C:\Users\Owner\Source\Repos\d-patterns\AutomaticVendingMachine-master\AutomaticVendingMachine\obj\Debug\net6.0-windows\ref\AutomaticVendingMachine.dll
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.exe
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.deps.json
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.runtimeconfig.json
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.dll
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.pdb
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.csproj.AssemblyReference.cache
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.csproj.GenerateResource.cache
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.AssemblyInfoInputs.cache
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.AssemblyInfo.cs
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.csproj.CoreCompileInputs.cache
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.dll
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\refint\AutomaticVendingMachine.dll
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.pdb
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.genruntimeconfig.cache
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\ref\AutomaticVendingMachine.dll
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.Properties.Resources.resources
+H:\טובי שובר\הנדסאים שנה ב\DISIGHN PATTERNS\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.Form1.resources
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.exe
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.deps.json
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.runtimeconfig.json
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.dll
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\bin\Debug\net6.0-windows\AutomaticVendingMachine.pdb
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.Form1.resources
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.Properties.Resources.resources
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.AssemblyInfo.cs
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.dll
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\refint\AutomaticVendingMachine.dll
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.pdb
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\AutomaticVendingMachine.genruntimeconfig.cache
+C:\Users\USER\Desktop\angular-Demo\bgnh\design-patterns-the-final-project-main\project\AutomaticVendingMachine\obj\Debug\net6.0-windows\ref\AutomaticVendingMachine.dll

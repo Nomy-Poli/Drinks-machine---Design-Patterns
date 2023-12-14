@@ -1,0 +1,26 @@
+in: 22-05-2023 09:41:15 someone buys: dal calories ice cofee
+in: 22-05-2023 10:18:09 someone buys: tropit
+in: 22-05-2023 10:20:38 someone buys: tropit
+in: 22-05-2023 12:36:11 someone buys: coca cola
+in: 22-05-2023 12:44:35 someone buys: coca cola
+in: 22-05-2023 12:45:48 someone buys: coca cola
+in: 22-05-2023 12:51:43 someone buys: coca cola
+in: 22-05-2023 12:52:57 someone buys: coca cola
+in: 22-05-2023 12:54:50 someone buys: coca cola
+in: 22-05-2023 12:56:14 someone buys: coca cola
+in: 22-05-2023 12:57:19 someone buys: coca cola
+in: 22-05-2023 12:57:23 someone buys: coca cola
+in: 22-05-2023 12:57:28 someone buys: coca cola
+in: 22-05-2023 12:57:34 someone buys: coca cola
+in: 22-05-2023 12:57:41 someone buys: coca cola
+in: 22-05-2023 13:00:17 someone buys: tropit
+in: 22-05-2023 13:00:22 someone buys: fuze-tee
+in: 22-05-2023 13:00:28 someone buys: orange Juice
+in: 22-05-2023 13:00:38 someone buys: bislli
+in: 22-05-2023 13:00:42 someone buys: apropo
+in: 22-05-2023 13:26:30 someone buys: chips
+in: 22-05-2023 13:26:34 someone buys: chips
+in: 22-05-2023 13:26:36 someone buys: chips
+in: 22-05-2023 13:26:36 someone buys: chips
+in: 22-05-2023 13:26:37 someone buys: chips
+in: 22-05-2023 13:26:38 someone buys: chips
